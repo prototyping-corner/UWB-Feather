@@ -7,5 +7,11 @@ The Ultra-WideBand Feather incorporates the Decawave DWM1000 module and an ATSAM
 
 For full project details and documentation visit [prototypingcorner.io/projects/uwb-feather](prototypingcorner.io/projects/uwb-feather).
 
+## Hardware
+Licensed under the CERN OHL v1.2.  
+
+![Top](/docs/images/top.svg)  
+![Bottom](/docs/images/bottom.svg)  
+
 ## Firmware
 Firmware providing in this repository is for testing the DWM1000 module and utilizes the [thotro/arduino-dw1000](https://github.com/thotro/arduino-dw1000) library. As this repository is no longer actively maintained, future development will focus on a new library.
